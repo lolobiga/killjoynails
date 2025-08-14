@@ -1,0 +1,12 @@
+.booking-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.calendar-container {
+    flex: 1;
+    width: 100%;
+}
